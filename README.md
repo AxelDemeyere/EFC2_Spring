@@ -6,6 +6,10 @@ Ce repository regroupe l'ECF réalisé dans le cadre de l’apprentissage de **S
 
 ---
 
+## 📸 Capture d'écran
+![Capture d'écran de l'application](SwaggerUI.png)
+
+---
 
 ## 🧰 Stack & Prérequis
 
